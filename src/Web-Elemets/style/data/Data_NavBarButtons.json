@@ -1,0 +1,24 @@
+[
+    {
+        "ButtonName" : "Home",
+        "href" : "/"
+    },
+    {
+        "ButtonName" : "Menu",
+        "href" : "#MenuItemsHolder"
+    },
+    {
+        "ButtonName" : "About Us",
+        "href" : "#AboutUs"
+    }
+    ,
+    {
+        "ButtonName" : "Schedule",
+        "href" : "#Schedule"
+    },
+    {
+        "ButtonName" : "Contact",
+        "href" : "#ContactUs"
+    }
+    
+]

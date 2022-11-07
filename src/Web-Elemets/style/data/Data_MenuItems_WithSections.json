@@ -1,0 +1,79 @@
+[
+    {
+        "Name" : "Carpacio",
+        "Price" : 24.10,
+        "Section" : 1
+    },
+    {
+        "Name" : "Pizza Nini",
+        "Price" : 9.99,
+        "Section" : 1
+    },
+    {
+        "Name" : "Jambe de Bois",
+        "Price" : 16.21,
+        "Section" : 1
+    },
+    {
+        "Name" : "Porc-à-os",
+        "Price" : 2.99,
+        "Section" : 3
+    },
+    {
+        "Name" : "Jamboneau",
+        "Price" : 69.42,
+        "Section" : 2
+    },
+    {
+        "Name" : "Panini",
+        "Price" : 3.99,
+        "Section" : 2
+    },
+    {
+        "Name" : "Gulach",
+        "Price" : 12.46,
+        "Section" : 3
+    }
+    ,
+    {
+        "Name" : "CocaCola",
+        "Price" : 2.99,
+        "Section" : 4
+    }
+    ,
+    {
+        "Name" : "Sprite",
+        "Price" : 1.79,
+        "Section" : 4
+    }
+    ,
+    {
+        "Name" : "Water",
+        "Price" : 1.49,
+        "Section" : 4
+    }
+    ,
+    {
+        "Name" : "Limonade",
+        "Price" : 4.99,
+        "Section" : 4
+    },
+    {
+        "Name" : "Whiskey",
+        "Price" : 10.54,
+        "Section" : 5
+    }
+    ,
+    {
+        "Name" : "Rhum",
+        "Price" : 11.99,
+        "Section" : 5
+    }
+    ,
+    {
+        "Name" : "Beer",
+        "Price" : 5.99,
+        "Section" : 5
+    }
+      
+]

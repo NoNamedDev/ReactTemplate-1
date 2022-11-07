@@ -1,0 +1,13 @@
+[
+    {
+        "Street" : "Rue du Parc",
+        "Number" : 99,
+        "City" : "Charleroi",
+        "PostalCode" : 6000,
+        "PhoneNumber" : "071.11.51.12"
+    },
+    {
+        "Header_Adress" : "Adress",
+        "Header_PhoneNumber" : "Phone Number"
+    }
+]

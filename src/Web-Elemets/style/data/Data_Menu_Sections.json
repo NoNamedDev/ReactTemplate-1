@@ -1,0 +1,24 @@
+[
+    {
+        "Section_Number" : 1,
+        "Section_Name" : "Pizza"
+    },
+    {
+        "Section_Number" : 2,
+        "Section_Name" : "' Entré '"
+    }
+    ,
+    {
+        "Section_Number" : 3,
+        "Section_Name" : "Main Dish"
+    }
+    ,
+    {
+        "Section_Number" : 4,
+        "Section_Name" : "Drinks"
+    },
+    {
+        "Section_Number" : 5,
+        "Section_Name" : "Alcohols"
+    }
+]

@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+    /* Change Glow_1 (or any Glow_x ) to the wanted color glow under (automate customisation) */
+  --Glow_1 : var(--Yellow-Glow);
+  --Yellow-Glow : #F5DF98;
+  --Purple-Glow : #9554b3;
+  --Royal-Blue-Glow : #545FB3;
+  --Cyan-Glow : #5FBFD5;
+  --Red-Glow : #F34747;
+  --Pink-Glow : #FF1482 ;
+  
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@layer components{
+
+  .glowEffect{
+    text-shadow: 0 0 10px #eeeeee, 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #000000, 
+                       0 0 50px var(--Glow_1), 0 0 60px var(--Glow_1), 0 0 70px var(--Glow_1)
+  }
+
+  .ContactUs-Text{
+  @apply text-3xl font-menu_font_1
+  }
+
+  .PageTitle-Text {
+    @apply font-menu_font_1 text-center text-6xl mb-10
+  }
+
+
+  .text-color-1{
+    @apply text-zinc-800
+  }
+  .text-color-2{
+    @apply text-orange-300
+  }
+  .bg-color-1{
+    @apply bg-zinc-800
+  }
+  .bg-color-1-1{
+    @apply bg-zinc-700
+  }
+  .bg-color-2{
+    @apply bg-orange-300/30
+  }
+  .bg-color-2-1{
+    @apply bg-orange-300
+  }
+  .shadow-1{
+    @apply shadow-md shadow-zinc-800/30 
+  }
+  .shadow-2{
+    @apply shadow-md shadow-orange-300/30
+  }
+  .border-custom-1{
+    @apply border-zinc-800/30
+  }
+  .border-custom-2{
+    @apply border-orange-300/30
+  }
+
+}
+
+/*  Default Colors
+
+  .text-color-1{
+    @apply text-zinc-800
+  }
+  .text-color-2{
+    @apply text-orange-300
+  }
+  .bg-color-1{
+    @apply bg-zinc-800
+  }
+  .bg-color-1-1{
+    @apply bg-zinc-700
+  }
+  .bg-color-2{
+    @apply bg-orange-300/30
+  }
+  .bg-color-2-1{
+    @apply bg-orange-300
+  }
+  .shadow-1{
+    @apply shadow-md shadow-zinc-800/30 
+  }
+  .shadow-2{
+    @apply shadow-md shadow-orange-300/30
+  }
+  .border-custom-1{
+    @apply border-zinc-800/30
+  }
+  .border-custom-2{
+    @apply border-orange-300/30
+  }
+
+*/
+
+

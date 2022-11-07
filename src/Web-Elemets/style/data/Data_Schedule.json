@@ -1,0 +1,30 @@
+[
+    {
+        "Day_Name" : "Monday",
+        "Opening_Hours" : "10:00 AM - 4:00 PM "
+    },
+    {
+        "Day_Name" : "Tuesday",
+        "Opening_Hours" : "9:00 AM - 4:00 PM "
+    },
+    {
+        "Day_Name" : "Wednesday",
+        "Opening_Hours" : "9:00 AM - 4:00 PM "
+    },
+    {
+        "Day_Name" : "Thursday",
+        "Opening_Hours" : "9:00 AM - 4:00 PM "
+    },
+    {
+        "Day_Name" : "Friday",
+        "Opening_Hours" : "9:00 AM - 4:00 PM "
+    },
+    {
+        "Day_Name" : "Saturday",
+        "Opening_Hours" : "4:00 PM - 11:00 PM "
+    },
+    {
+        "Day_Name" : "Sunday",
+        "Opening_Hours" : "Closed"
+    }
+]
